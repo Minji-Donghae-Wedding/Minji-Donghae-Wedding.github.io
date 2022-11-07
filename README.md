@@ -8,7 +8,7 @@
 
 * 날짜 : 2023년 8월 12일 12시 00분
 * 장소 : 경기도 평택시 장안웃길 56 국제웨딩컨벤션
-* 청첩장 url : https://Minji-Donghae-Wedding.github.io/wedding-card
+* 청첩장 url : https://Minji-Donghae-Wedding.github.io/Minji-Donghae-Wedding.github.io
 
 ## 축하의 말
 
